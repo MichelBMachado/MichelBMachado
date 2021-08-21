@@ -5,13 +5,18 @@ Atualmente, venho desenvolvendo habilidades com softwares comerciais e Open Sour
 ---
 ### Linguagens e Ferramentas:
 <div>
-  <img align= "center" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img align= "center" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" />
+  <img align= "center" height="33" width="32" src="https://gist.githubusercontent.com/MichelBMachado/5d010fc7f71cbb94d673ac037d6117d5/raw/13a6c53175d7282508e4cda049f55eec90598825/sympylogo.svg" title="Sympy" />
+  <img align= "center" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" title="Numpy" />
   <img align= "center" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
   <img align= "center" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
   <img align= "center" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   <img align= "center" height="32" width="32" src="https://images.ctfassets.net/nrgyaltdicpt/h9dpHuVys19B1sOAWvbP6/5f8d4c6d051f63e4ba450befd56f9189/ologo_square_colour_light_bg.svg" />
   <img align= "center" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+  <img align= "center" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img align= "center" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
 </div>
+  
 
 ---
 ### Entre em contato:
